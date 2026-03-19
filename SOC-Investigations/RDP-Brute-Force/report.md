@@ -48,3 +48,17 @@ This activity is confirmed as a brute force attack against the target system via
 - Enforce strong password policies. 
 - Restrict or secure RDP access (e.g., VPN or multi-factor authentication)  
 - Continuously monitor authentication logs for suspicious activity.
+
+## Evidence
+
+### Log Evidence
+![Logs](Log-evidence.png)
+
+### VirusTotal Analysis
+![VirusTotal](VirusTotal-result.png)
+
+### AbuseIPDB Analysis
+![AbuseIPDB](AbuseIPDB-result.png)
+
+### Successful Login Evidence
+![Successful Login](Login-success-evidence.png)
