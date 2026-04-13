@@ -15,6 +15,9 @@ This portfolio is focused on learning by doing. It includes real-world style inv
 - RDP Brute Force Attack Investigation  
   SOC-Investigations/RDP-Brute-Force/
 
+- VPN Brute Force Attack
+  SOC-Investigations/VPN-Unauthorized-Access/
+
 *(More investigations will be added as I continue practicing.)*
 
 ---
