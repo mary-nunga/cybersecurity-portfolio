@@ -52,12 +52,12 @@ Multi-Factor Authentication (MFA) prevented successful access to the system.
 
 ## Recommendations
 
-Reset the affected user’s password immediately
-Enforce stronger password policies
-Monitor for repeated login attempts from suspicious locations
-Block or restrict the malicious IP address (113.161.158.12)
-Implement account lockout mechanisms after multiple failed attempts
-Continue enforcing MFA across all remote access services
+- Reset the affected user’s password immediately
+- Enforce stronger password policies
+- Monitor for repeated login attempts from suspicious locations
+- Block or restrict the malicious IP address (113.161.158.12)
+- Implement account lockout mechanisms after multiple failed attempts
+- Continue enforcing MFA across all remote access services
 
 ---
 
