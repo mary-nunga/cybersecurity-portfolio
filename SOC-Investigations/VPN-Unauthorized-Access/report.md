@@ -72,4 +72,4 @@ Continue enforcing MFA across all remote access services
 ![Email](Email.png)
 
 ## Threat Intelligence
-![Flags](IP-flag.png)
+![Flags](IP-Flag.png)
