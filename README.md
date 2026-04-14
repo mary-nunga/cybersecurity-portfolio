@@ -16,7 +16,10 @@ This portfolio is focused on learning by doing. It includes real-world style inv
   SOC-Investigations/RDP-Brute-Force/
   
 - VPN Brute Force Attack Investigation  
-  SOC-Investigations/VPN-Unauthorized Access/
+  SOC-Investigations/VPN-Unauthorized-Access/
+
+- SQL Injection Attack Investigation  
+  SOC-Investigations/SQL-Attack/
 
 *(More investigations will be added as I continue practicing.)*
 
