@@ -74,6 +74,6 @@ Recommendations
 
 ![VirusTotal](VirusTotal.png)
 
-![AbuseIDPB](AbuseIDPB.png)
+![AbuseIDPB](Abuse.IDPB.png)
 
 
