@@ -21,6 +21,9 @@ This portfolio is focused on learning by doing. It includes real-world style inv
 - SQL Injection Attack Investigation  
   SOC-Investigations/SQL-Attack/
 
+ - Phishing Attack Investigation  
+  SOC-Investigations/Phishing-Attack-Investigation/
+
 *(More investigations will be added as I continue practicing.)*
 
 ---
