@@ -64,11 +64,11 @@ The user executed a malicious attachment, leading to system compromise.
 ## Evidence
 
 ### VirusTotal
-![VirusTotal](VirusTotal)
+![VirusTotal](VirusTotal.png)
 
 ### Email 
-![Email](Email)
+![Email](Email.png)
 
 ### Domain
-![Domain](Domain)
+![Domain](Domain.png)
 
